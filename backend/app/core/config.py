@@ -2,7 +2,7 @@ from pydantic_settings import BaseSettings
 
 class Settings(BaseSettings):
     DATABASE_URL: str
-    ALLOWED_ORIGINS: str = "http://localhost:5173"
+    ALLOWED_ORIGINS: str = "https://velora-med-production.up.railway.app"
     APP_NAME: str = "Velora Med API"
     APP_VERSION: str = "1.0.0"
 
