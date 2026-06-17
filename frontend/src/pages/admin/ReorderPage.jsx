@@ -15,7 +15,7 @@ function ReorderPage() {
     useEffect(() => {
 
         axios.get(
-            'http://127.0.0.1:8000/api/reorder/recommendations',
+            'https://shimmering-magic-production-6404.up.railway.app/api/reorder/recommendations',
             {
                 headers: {
                     'X-Tenant-ID': tenantId
@@ -34,7 +34,7 @@ function ReorderPage() {
     const handleGeneratePO = (row) => {
 
         axios.post(
-            'http://127.0.0.1:8000/api/purchase-orders',
+            'https://shimmering-magic-production-6404.up.railway.app/api/purchase-orders',
             {
                 tenant_id: tenantId,
                 item_name: row.item_name,

@@ -86,7 +86,7 @@ useEffect(() => {
   }
 
   axios
-    .get('http://127.0.0.1:8000/api/dashboard/stats',
+    .get('https://shimmering-magic-production-6404.up.railway.app/api/dashboard/stats',
       {
         headers: {
           'X-Tenant-ID': tenantId
@@ -102,7 +102,7 @@ useEffect(() => {
 
   axios
     .get(
-      'http://127.0.0.1:8000/api/inventory',
+      'https://shimmering-magic-production-6404.up.railway.app/api/inventory',
       {
         headers: {
           'X-Tenant-ID': tenantId
@@ -122,7 +122,7 @@ useEffect(() => {
 
   axios
     .get(
-      'http://127.0.0.1:8000/api/dashboard/alerts',
+      'https://shimmering-magic-production-6404.up.railway.app/api/dashboard/alerts',
       {
         headers: {
           'X-Tenant-ID': tenantId
@@ -138,7 +138,7 @@ useEffect(() => {
 
   axios
     .get(
-      'http://127.0.0.1:8000/api/forecast/history/M01AB',
+      'https://shimmering-magic-production-6404.up.railway.app/api/forecast/history/M01AB',
     )
     .then((response) => {
       setDashboardHistory(
@@ -148,7 +148,7 @@ useEffect(() => {
 
   axios
     .get(
-      'http://127.0.0.1:8000/api/forecast/predict/M01AB'
+      'https://shimmering-magic-production-6404.up.railway.app/api/forecast/predict/M01AB'
     )
     .then((response) => {
       setDashboardPrediction(
@@ -158,7 +158,7 @@ useEffect(() => {
 
   axios
     .get(
-      'http://127.0.0.1:8000/api/dashboard/supply-chain',
+      'https://shimmering-magic-production-6404.up.railway.app/api/dashboard/supply-chain',
       {
         headers: {
           'X-Tenant-ID': tenantId
@@ -180,7 +180,7 @@ useEffect(() => {
 
   axios
     .get(
-      'http://127.0.0.1:8000/api/demand/analytics',
+      'https://shimmering-magic-production-6404.up.railway.app/api/demand/analytics',
       {
         headers: {
           'X-Tenant-ID': tenantId

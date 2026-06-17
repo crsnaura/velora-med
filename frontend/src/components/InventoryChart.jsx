@@ -34,7 +34,7 @@ function InventoryChart() {
 
         axios
             .get(
-                'http://127.0.0.1:8000/api/dashboard/chart',
+                'https://shimmering-magic-production-6404.up.railway.app/api/dashboard/chart',
                 {
                     headers: {
                         'X-Tenant-ID': tenantId

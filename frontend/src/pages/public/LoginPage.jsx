@@ -21,7 +21,7 @@ function LoginPage() {
         try {
 
             const response = await axios.post(
-                'http://127.0.0.1:8000/api/login',
+                'https://shimmering-magic-production-6404.up.railway.app/api/login',
                 {
                     username,
                     password

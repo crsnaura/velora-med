@@ -8,7 +8,7 @@ function SuppliersPage() {
   useEffect(() => {
 
     axios
-      .get('http://127.0.0.1:8000/api/suppliers')
+      .get('https://shimmering-magic-production-6404.up.railway.app/api/suppliers')
       .then((response) => {
         setSuppliers(response.data)
       })
@@ -18,7 +18,7 @@ function SuppliersPage() {
 
     axios
       .get(
-        'http://127.0.0.1:8000/api/suppliers/analytics',
+        'https://shimmering-magic-production-6404.up.railway.app/api/suppliers/analytics',
         {
           headers: {
             'X-Tenant-ID': user.tenant_id

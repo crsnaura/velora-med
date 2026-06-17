@@ -11,7 +11,7 @@ function ExecutiveDashboardPage() {
     useEffect(() => {
 
         axios.get(
-            'http://127.0.0.1:8000/api/executive-dashboard',
+            'https://shimmering-magic-production-6404.up.railway.app/api/executive-dashboard',
             {
                 headers: {
                     'X-Tenant-ID': user.tenant_id

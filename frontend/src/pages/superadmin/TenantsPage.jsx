@@ -17,7 +17,7 @@ function TenantsPage() {
 
         axios
             .get(
-                'http://127.0.0.1:8000/api/tenants'
+                'https://shimmering-magic-production-6404.up.railway.app/api/tenants'
             )
             .then((response) => {
 
@@ -33,7 +33,7 @@ function TenantsPage() {
         try {
 
             await axios.post(
-                'http://127.0.0.1:8000/api/tenants',
+                'https://shimmering-magic-production-6404.up.railway.app/api/tenants',
                 formData
             )
 

@@ -14,7 +14,7 @@ function ForecastPage() {
     setLoading(true)
 
     axios
-      .get('http://127.0.0.1:8000/api/forecast/drugs')
+      .get('https://shimmering-magic-production-6404.up.railway.app/api/forecast/drugs')
       .then((response) => {
         setDrugs(response.data)
       })
@@ -33,7 +33,7 @@ function ForecastPage() {
 
     axios
       .get(
-        `http://127.0.0.1:8000/api/forecast/history/${selectedDrug}`
+        `https://shimmering-magic-production-6404.up.railway.app/api/forecast/history/${selectedDrug}`
       )
       .then((response) => {
         setHistoryData(response.data)
@@ -47,7 +47,7 @@ function ForecastPage() {
 
     axios
       .get(
-        `http://127.0.0.1:8000/api/forecast/predict/${selectedDrug}`
+        `https://shimmering-magic-production-6404.up.railway.app/api/forecast/predict/${selectedDrug}`
       )
       .then((response) => {
         setPredictionData(response.data)

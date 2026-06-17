@@ -25,7 +25,7 @@ function InventoryPage({
 
     axios
       .get(
-        'http://127.0.0.1:8000/api/inventory/analytics',
+        'https://shimmering-magic-production-6404.up.railway.app/api/inventory/analytics',
         {
           headers: {
             'X-Tenant-ID': tenantId

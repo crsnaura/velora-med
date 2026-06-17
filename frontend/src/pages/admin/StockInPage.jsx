@@ -24,7 +24,7 @@ function StockInPage() {
     useEffect(() => {
 
         axios.get(
-            'http://127.0.0.1:8000/api/stock-in',
+            'https://shimmering-magic-production-6404.up.railway.app/api/stock-in',
             {
                 headers: {
                     'X-Tenant-ID': tenantId
@@ -36,13 +36,13 @@ function StockInPage() {
             })
 
         axios
-            .get('http://127.0.0.1:8000/api/items')
+            .get('https://shimmering-magic-production-6404.up.railway.app/api/items')
             .then((response) => {
                 setItems(response.data)
             })
 
         axios
-            .get('http://127.0.0.1:8000/api/suppliers')
+            .get('https://shimmering-magic-production-6404.up.railway.app/api/suppliers')
             .then((response) => {
                 setSuppliers(response.data)
             })
@@ -51,7 +51,7 @@ function StockInPage() {
     const handleSubmit = () => {
 
         axios.post(
-            'http://127.0.0.1:8000/api/stock-in',
+            'https://shimmering-magic-production-6404.up.railway.app/api/stock-in',
             {
                 ...formData,
                 item_id: Number(formData.item_id),

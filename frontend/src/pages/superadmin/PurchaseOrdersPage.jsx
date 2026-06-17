@@ -10,7 +10,7 @@ function PurchaseOrdersPage() {
 
         axios
             .get(
-                'http://127.0.0.1:8000/api/purchase-orders'
+                'https://shimmering-magic-production-6404.up.railway.app/api/purchase-orders'
             )
             .then((response) => {
 
@@ -33,7 +33,7 @@ function PurchaseOrdersPage() {
         }
 
         await axios.put(
-            `http://127.0.0.1:8000/api/purchase-orders/${poId}/approve`,
+            `https://shimmering-magic-production-6404.up.railway.app/api/purchase-orders/${poId}/approve`,
             {
                 vendor_name: vendorName
             }
@@ -44,7 +44,7 @@ function PurchaseOrdersPage() {
     const rejectPO = async (poId) => {
 
         await axios.put(
-            `http://127.0.0.1:8000/api/purchase-orders/${poId}/reject`
+            `https://shimmering-magic-production-6404.up.railway.app/api/purchase-orders/${poId}/reject`
         )
 
         window.location.reload()

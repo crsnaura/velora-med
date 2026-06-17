@@ -9,7 +9,7 @@ function PurchaseOrdersPage() {
 
         axios
             .get(
-                'http://127.0.0.1:8000/api/purchase-orders'
+                'https://shimmering-magic-production-6404.up.railway.app/api/purchase-orders'
             )
             .then((response) => {
 
@@ -23,7 +23,7 @@ function PurchaseOrdersPage() {
     const handleApprove = (id) => {
 
         axios.put(
-            `http://127.0.0.1:8000/api/purchase-orders/${id}/approve`
+            `https://shimmering-magic-production-6404.up.railway.app/api/purchase-orders/${id}/approve`
         )
             .then(() => {
 

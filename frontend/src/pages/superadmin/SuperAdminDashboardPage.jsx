@@ -38,7 +38,7 @@ function SuperAdminDashboardPage() {
 
         axios
             .get(
-                'http://127.0.0.1:8000/api/tenants'
+                'https://shimmering-magic-production-6404.up.railway.app/api/tenants'
             )
             .then((response) => {
 
@@ -50,7 +50,7 @@ function SuperAdminDashboardPage() {
 
         axios
             .get(
-                'http://127.0.0.1:8000/api/users'
+                'https://shimmering-magic-production-6404.up.railway.app/api/users'
             )
             .then((response) => {
 
@@ -62,7 +62,7 @@ function SuperAdminDashboardPage() {
 
         axios
             .get(
-                'http://127.0.0.1:8000/api/purchase-orders'
+                'https://shimmering-magic-production-6404.up.railway.app/api/purchase-orders'
             )
             .then((response) => {
 

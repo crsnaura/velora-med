@@ -29,7 +29,7 @@ function UsersPage() {
 
         axios
             .get(
-                'http://127.0.0.1:8000/api/users'
+                'https://shimmering-magic-production-6404.up.railway.app/api/users'
             )
             .then((response) => {
 
@@ -41,7 +41,7 @@ function UsersPage() {
 
         axios
             .get(
-                'http://127.0.0.1:8000/api/tenants'
+                'https://shimmering-magic-production-6404.up.railway.app/api/tenants'
             )
             .then((response) => {
 
@@ -56,7 +56,7 @@ function UsersPage() {
     const createUser = async () => {
 
         await axios.post(
-            'http://127.0.0.1:8000/api/users',
+            'https://shimmering-magic-production-6404.up.railway.app/api/users',
             formData
         )
 
@@ -68,7 +68,7 @@ function UsersPage() {
             return
 
         await axios.delete(
-            `http://127.0.0.1:8000/api/users/${username}`
+            `https://shimmering-magic-production-6404.up.railway.app/api/users/${username}`
         )
 
         window.location.reload()
