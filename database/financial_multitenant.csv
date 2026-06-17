@@ -1,0 +1,2001 @@
+Date,Expense_Category,Amount,Description,tenant_id,nama_rs,kelas_rs,expense_level
+2024-10-01,Staffing,41148.6,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2024-10-02,Supplies,66860.79,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2024-10-03,Supplies,61595.24,Ventilators,T001,RSUD dr. Soetomo,A,High
+2024-10-04,Supplies,39071.79,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2024-10-05,Equipment,55607.44,Ventilators,T001,RSUD dr. Soetomo,A,High
+2024-10-06,Equipment,16373.0,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2024-10-07,Supplies,56070.28,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2024-10-08,Staffing,68366.07,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2024-10-09,Supplies,16542.3,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2024-10-10,Staffing,56552.85,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2024-10-11,Staffing,18516.26,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2024-10-12,Equipment,14778.41,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2024-10-13,Staffing,9563.74,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2024-10-14,Staffing,31328.22,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2024-10-15,Staffing,39079.94,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2024-10-16,Equipment,21397.22,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2024-10-17,Staffing,23443.42,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2024-10-18,Supplies,10233.99,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2024-10-19,Equipment,68149.14,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2024-10-20,Supplies,48800.32,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2024-10-21,Equipment,6968.72,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2024-10-22,Equipment,48240.64,Ventilators,T001,RSUD dr. Soetomo,A,High
+2024-10-23,Staffing,45706.44,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2024-10-24,Equipment,60617.14,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2024-10-25,Supplies,49865.49,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2024-10-26,Staffing,3039.99,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2024-10-27,Supplies,42378.18,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2024-10-28,Staffing,1634.11,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2024-10-29,Supplies,23323.24,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2024-10-30,Staffing,21502.22,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2024-10-31,Equipment,7586.92,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2024-11-01,Equipment,4502.72,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2024-11-02,Equipment,13734.46,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2024-11-03,Equipment,58263.81,Ventilators,T001,RSUD dr. Soetomo,A,High
+2024-11-04,Equipment,18447.0,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2024-11-05,Staffing,15099.71,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2024-11-06,Supplies,67244.03,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2024-11-07,Supplies,9300.48,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2024-11-08,Equipment,21747.1,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2024-11-09,Equipment,57221.43,Ventilators,T001,RSUD dr. Soetomo,A,High
+2024-11-10,Equipment,44842.67,Ventilators,T001,RSUD dr. Soetomo,A,High
+2024-11-11,Supplies,6177.02,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2024-11-12,Equipment,65266.89,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2024-11-13,Supplies,20479.35,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2024-11-14,Staffing,28148.6,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2024-11-15,Supplies,40902.22,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2024-11-16,Equipment,41188.67,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2024-11-17,Staffing,19519.65,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2024-11-18,Supplies,54327.07,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2024-11-19,Equipment,24560.44,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2024-11-20,Equipment,52747.04,Ventilators,T001,RSUD dr. Soetomo,A,High
+2024-11-21,Supplies,11594.66,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2024-11-22,Supplies,30128.63,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2024-11-23,Equipment,3133.03,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2024-11-24,Staffing,26788.87,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2024-11-25,Staffing,2607.11,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2024-11-26,Equipment,55838.09,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2024-11-27,Staffing,19853.76,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2024-11-28,Equipment,54990.85,Ventilators,T001,RSUD dr. Soetomo,A,High
+2024-11-29,Staffing,56044.83,Ventilators,T001,RSUD dr. Soetomo,A,High
+2024-11-30,Supplies,6993.9,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2024-12-01,Staffing,36905.72,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2024-12-02,Equipment,9200.93,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2024-12-03,Equipment,68465.39,Ventilators,T001,RSUD dr. Soetomo,A,High
+2024-12-04,Supplies,51896.03,Ventilators,T001,RSUD dr. Soetomo,A,High
+2024-12-05,Supplies,9667.83,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2024-12-06,Supplies,36317.12,Ventilators,T001,RSUD dr. Soetomo,A,High
+2024-12-07,Supplies,69413.62,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2024-12-08,Staffing,57282.58,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2024-12-09,Supplies,51405.55,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2024-12-10,Supplies,61568.19,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2024-12-11,Supplies,67299.2,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2024-12-12,Supplies,45697.44,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2024-12-13,Equipment,35469.03,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2024-12-14,Staffing,21450.58,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2024-12-15,Supplies,16676.62,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2024-12-16,Equipment,16625.1,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2024-12-17,Staffing,32172.49,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2024-12-18,Staffing,31040.23,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2024-12-19,Supplies,63102.52,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2024-12-20,Supplies,45647.97,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2024-12-21,Staffing,5060.41,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2024-12-22,Equipment,5178.96,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2024-12-23,Supplies,44760.77,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2024-12-24,Supplies,4690.27,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2024-12-25,Staffing,64215.13,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2024-12-26,Supplies,7292.8,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2024-12-27,Equipment,5300.78,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2024-12-28,Supplies,51365.48,Ventilators,T001,RSUD dr. Soetomo,A,High
+2024-12-29,Staffing,33752.95,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2024-12-30,Supplies,14293.08,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2024-12-31,Staffing,25457.15,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-01-01,Supplies,42122.78,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-01-02,Supplies,5348.73,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2025-01-03,Equipment,56023.9,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-01-04,Staffing,2546.77,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-01-05,Staffing,31627.01,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-01-06,Supplies,45826.42,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-01-07,Supplies,61739.55,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-01-08,Supplies,30383.28,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-01-09,Staffing,30285.7,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-01-10,Supplies,29873.58,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-01-11,Supplies,66597.4,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-01-12,Equipment,42042.34,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-01-13,Staffing,21387.37,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-01-14,Supplies,27367.54,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-01-15,Staffing,25560.21,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-01-16,Supplies,14348.24,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2025-01-17,Staffing,36586.75,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-01-18,Staffing,38007.28,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-01-19,Supplies,9658.04,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2025-01-20,Staffing,27367.55,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-01-21,Staffing,42299.77,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-01-22,Equipment,30719.85,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-01-23,Staffing,58035.99,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-01-24,Equipment,68856.69,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-01-25,Supplies,18256.6,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-01-26,Supplies,16531.31,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-01-27,Supplies,21353.35,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-01-28,Staffing,60710.23,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-01-29,Staffing,65810.72,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-01-30,Staffing,31232.66,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-01-31,Supplies,59280.09,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-02-01,Equipment,24483.91,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-02-02,Equipment,62246.23,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-02-03,Equipment,22098.16,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-02-04,Supplies,24883.64,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-02-05,Equipment,60173.93,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-02-06,Equipment,29505.41,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-02-07,Equipment,55139.55,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-02-08,Supplies,66926.69,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-02-09,Staffing,4688.92,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-02-10,Equipment,48108.2,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-02-11,Equipment,17062.81,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-02-12,Staffing,8654.65,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-02-13,Staffing,24840.89,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-02-14,Supplies,30491.43,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-02-15,Staffing,18554.79,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-02-16,Supplies,24094.42,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-02-17,Equipment,21138.03,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-02-18,Equipment,27090.66,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-02-19,Supplies,17660.08,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-02-20,Supplies,36362.21,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-02-21,Equipment,19819.46,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-02-22,Staffing,43274.87,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-02-23,Equipment,19275.35,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-02-24,Supplies,52199.7,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-02-25,Equipment,40526.09,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-02-26,Staffing,60918.07,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-02-27,Staffing,67035.99,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-02-28,Supplies,47988.5,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-03-01,Staffing,2533.69,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-03-02,Equipment,39853.51,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-03-03,Supplies,47638.39,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-03-04,Staffing,38915.52,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-03-05,Supplies,64567.83,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-03-06,Staffing,5756.66,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-03-07,Supplies,29227.07,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-03-08,Staffing,41370.69,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-03-09,Supplies,38347.05,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-03-10,Supplies,36654.44,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-03-11,Staffing,29443.92,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-03-12,Supplies,30911.85,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-03-13,Staffing,41776.67,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-03-14,Supplies,35349.17,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-03-15,Staffing,55026.86,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-03-16,Supplies,20743.02,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-03-17,Staffing,3523.3,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-03-18,Staffing,61374.74,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-03-19,Equipment,60639.53,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-03-20,Equipment,12211.5,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-03-21,Supplies,4133.14,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-03-22,Supplies,28991.09,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-03-23,Equipment,37486.82,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-03-24,Staffing,14910.18,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2025-03-25,Supplies,31664.33,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-03-26,Staffing,13671.97,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2025-03-27,Staffing,40896.16,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-03-28,Supplies,32948.09,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-03-29,Supplies,7590.97,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-03-30,Staffing,18944.02,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-03-31,Staffing,51655.77,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-04-01,Supplies,57812.29,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-04-02,Supplies,20487.73,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-04-03,Staffing,34819.39,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-04-04,Staffing,10158.29,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2025-04-05,Staffing,56438.27,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-04-06,Supplies,11486.26,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-04-07,Staffing,45332.36,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-04-08,Supplies,45850.8,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-04-09,Equipment,18255.51,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-04-10,Staffing,31379.38,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-04-11,Staffing,6904.34,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-04-12,Supplies,29659.01,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-04-13,Supplies,14340.1,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-04-14,Equipment,68596.67,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-04-15,Supplies,39281.86,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-04-16,Equipment,14745.74,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-04-17,Staffing,55593.06,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-04-18,Staffing,40837.57,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-04-19,Supplies,47877.8,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-04-20,Supplies,62563.38,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-04-21,Equipment,48975.65,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-04-22,Supplies,15096.98,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-04-23,Staffing,66873.63,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-04-24,Staffing,60283.24,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-04-25,Supplies,35816.63,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-04-26,Staffing,45329.7,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-04-27,Staffing,51735.71,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-04-28,Staffing,58018.39,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-04-29,Staffing,15093.46,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-04-30,Supplies,35281.71,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-05-01,Supplies,46435.89,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-05-02,Supplies,69194.62,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-05-03,Equipment,14057.29,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2025-05-04,Staffing,10617.71,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-05-05,Supplies,5736.53,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-05-06,Staffing,7859.59,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-05-07,Staffing,59958.99,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-05-08,Supplies,3568.6,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-05-09,Supplies,56651.04,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-05-10,Supplies,9260.17,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-05-11,Supplies,17761.2,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-05-12,Equipment,42032.62,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-05-13,Supplies,57256.25,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-05-14,Equipment,62691.1,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-05-15,Equipment,61864.82,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-05-16,Staffing,6223.41,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-05-17,Equipment,6826.67,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-05-18,Staffing,32813.52,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-05-19,Equipment,46574.36,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-05-20,Supplies,63187.38,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-05-21,Staffing,5357.28,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2025-05-22,Staffing,26123.41,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-05-23,Supplies,63526.81,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-05-24,Staffing,54548.26,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-05-25,Equipment,57685.47,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-05-26,Staffing,17558.52,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-05-27,Staffing,48272.85,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-05-28,Staffing,41944.88,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-05-29,Equipment,45844.58,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-05-30,Equipment,26091.13,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-05-31,Supplies,30936.84,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-06-01,Equipment,61969.11,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-06-02,Equipment,24182.16,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-06-03,Supplies,48817.94,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-06-04,Staffing,33168.13,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-06-05,Equipment,28245.18,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-06-06,Staffing,38082.35,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-06-07,Supplies,32755.39,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-06-08,Equipment,5165.47,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2025-06-09,Staffing,9126.05,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-06-10,Supplies,48463.45,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-06-11,Equipment,54499.7,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-06-12,Equipment,43620.77,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-06-13,Equipment,30644.46,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-06-14,Equipment,50490.3,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-06-15,Supplies,53009.25,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-06-16,Equipment,61579.8,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-06-17,Staffing,28072.91,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-06-18,Equipment,14964.54,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-06-19,Equipment,16504.82,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-06-20,Staffing,46292.99,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-06-21,Equipment,37808.13,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-06-22,Supplies,52758.93,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-06-23,Equipment,6331.5,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-06-24,Supplies,27843.68,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-06-25,Supplies,48378.99,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-06-26,Equipment,52239.94,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-06-27,Equipment,27181.32,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-06-28,Equipment,3433.35,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-06-29,Supplies,11145.81,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2025-06-30,Staffing,1628.07,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-07-01,Supplies,5361.16,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-07-02,Equipment,49663.67,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-07-03,Equipment,29344.24,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-07-04,Staffing,44047.26,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-07-05,Supplies,27255.17,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-07-06,Equipment,46567.36,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-07-07,Supplies,64381.73,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-07-08,Staffing,35702.24,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-07-09,Staffing,13727.55,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-07-10,Supplies,57751.57,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-07-11,Supplies,16825.89,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-07-12,Staffing,2387.49,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-07-13,Supplies,24432.62,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-07-14,Supplies,51052.2,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-07-15,Supplies,23724.06,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-07-16,Staffing,69316.76,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-07-17,Equipment,36081.96,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-07-18,Equipment,6375.53,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-07-19,Supplies,22507.79,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-07-20,Staffing,22518.44,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-07-21,Supplies,39014.65,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-07-22,Equipment,7059.92,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-07-23,Equipment,66558.86,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-07-24,Supplies,29860.49,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-07-25,Supplies,67061.39,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-07-26,Supplies,65884.13,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-07-27,Equipment,20028.29,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-07-28,Staffing,21472.61,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-07-29,Equipment,45041.35,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-07-30,Staffing,27794.3,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-07-31,Staffing,24082.48,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-08-01,Supplies,46065.01,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-08-02,Staffing,17826.06,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-08-03,Equipment,15338.06,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-08-04,Equipment,21937.65,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-08-05,Supplies,42341.64,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-08-06,Staffing,14125.43,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2025-08-07,Equipment,7682.7,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-08-08,Equipment,37838.32,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-08-09,Supplies,43235.58,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-08-10,Supplies,19204.6,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-08-11,Staffing,54022.04,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-08-12,Staffing,6199.58,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2025-08-13,Supplies,50316.41,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-08-14,Supplies,28853.16,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-08-15,Staffing,29184.37,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-08-16,Staffing,33955.31,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-08-17,Supplies,68573.57,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-08-18,Supplies,55915.1,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-08-19,Equipment,14732.54,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2025-08-20,Supplies,13521.8,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-08-21,Equipment,52123.75,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-08-22,Supplies,23459.76,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-08-23,Supplies,55699.88,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-08-24,Supplies,37597.5,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-08-25,Supplies,41419.98,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-08-26,Equipment,17217.62,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-08-27,Staffing,25058.57,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-08-28,Staffing,19284.64,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-08-29,Staffing,58213.78,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-08-30,Equipment,26710.63,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-08-31,Supplies,60821.32,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-09-01,Staffing,66515.13,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-09-02,Supplies,31415.85,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-09-03,Supplies,58406.6,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-09-04,Equipment,66957.51,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-09-05,Equipment,22235.85,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-09-06,Equipment,44693.31,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-09-07,Staffing,60834.4,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-09-08,Supplies,27863.84,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-09-09,Staffing,40081.59,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-09-10,Supplies,13141.21,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-09-11,Staffing,68973.62,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-09-12,Supplies,35049.84,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-09-13,Supplies,31744.96,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-09-14,Supplies,37711.65,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-09-15,Staffing,38437.94,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-09-16,Staffing,54640.78,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-09-17,Staffing,49058.37,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-09-18,Staffing,62243.33,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-09-19,Staffing,53893.13,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-09-20,Equipment,4407.76,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-09-21,Staffing,17394.19,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-09-22,Equipment,48334.86,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-09-23,Supplies,59334.0,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-09-24,Equipment,34690.54,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-09-25,Staffing,50982.08,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-09-26,Supplies,37137.84,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-09-27,Staffing,28471.44,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-09-28,Supplies,21809.33,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-09-29,Equipment,5073.0,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-09-30,Staffing,12471.93,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-10-01,Supplies,22375.11,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-10-02,Staffing,31374.92,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-10-03,Supplies,43326.14,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-10-04,Supplies,11445.38,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-10-05,Equipment,46980.39,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-10-06,Staffing,10717.14,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-10-07,Equipment,49028.76,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-10-08,Supplies,64109.61,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-10-09,Supplies,16689.78,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-10-10,Supplies,23569.64,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-10-11,Staffing,15632.46,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-10-12,Supplies,5636.13,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-10-13,Equipment,20417.87,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-10-14,Equipment,36009.9,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-10-15,Staffing,19332.99,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-10-16,Supplies,58121.53,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-10-17,Supplies,1586.35,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-10-18,Supplies,42163.34,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-10-19,Equipment,15537.34,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-10-20,Staffing,43116.49,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-10-21,Equipment,59881.78,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-10-22,Supplies,28529.66,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-10-23,Staffing,33969.39,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-10-24,Equipment,68019.31,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-10-25,Supplies,28064.74,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-10-26,Staffing,43113.48,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-10-27,Equipment,22641.78,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-10-28,Supplies,55812.81,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-10-29,Staffing,29476.89,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-10-30,Equipment,59469.4,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-10-31,Supplies,38181.93,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-11-01,Staffing,7226.38,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-11-02,Supplies,23350.61,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-11-03,Supplies,18416.31,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-11-04,Staffing,45746.18,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-11-05,Supplies,58343.94,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-11-06,Staffing,67624.83,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-11-07,Staffing,63037.27,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-11-08,Staffing,34332.83,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-11-09,Equipment,26533.77,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-11-10,Supplies,26029.19,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-11-11,Supplies,67423.3,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-11-12,Supplies,47334.81,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-11-13,Staffing,28087.01,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-11-14,Staffing,47847.67,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-11-15,Staffing,19970.64,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-11-16,Equipment,25802.83,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-11-17,Equipment,48827.97,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-11-18,Supplies,19000.91,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-11-19,Supplies,18400.47,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-11-20,Staffing,12938.18,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-11-21,Supplies,29030.05,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-11-22,Staffing,31376.37,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-11-23,Supplies,67108.26,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-11-24,Staffing,19569.4,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-11-25,Supplies,4274.54,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-11-26,Equipment,35809.06,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-11-27,Supplies,7954.97,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2025-11-28,Supplies,20467.76,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-11-29,Equipment,40584.8,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-11-30,Equipment,17649.48,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-12-01,Supplies,28759.91,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-12-02,Equipment,65233.87,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-12-03,Equipment,5565.25,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-12-04,Equipment,31408.86,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-12-05,Staffing,45264.83,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-12-06,Staffing,41372.91,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-12-07,Equipment,46704.7,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-12-08,Staffing,4539.18,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2025-12-09,Equipment,18533.44,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-12-10,Supplies,3686.16,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-12-11,Supplies,46506.5,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-12-12,Supplies,30262.08,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-12-13,Supplies,41395.7,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-12-14,Supplies,33634.41,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-12-15,Equipment,67620.59,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-12-16,Equipment,10733.91,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-12-17,Supplies,38456.47,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-12-18,Equipment,31211.12,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-12-19,Supplies,31135.86,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2025-12-20,Staffing,7362.87,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2025-12-21,Equipment,38936.88,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2025-12-22,Supplies,53148.3,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-12-23,Supplies,46511.64,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-12-24,Equipment,17318.97,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-12-25,Supplies,16387.85,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2025-12-26,Equipment,59511.56,Ventilators,T001,RSUD dr. Soetomo,A,High
+2025-12-27,Staffing,62759.9,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-12-28,Equipment,58936.15,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2025-12-29,Equipment,5160.76,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2025-12-30,Staffing,20028.75,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2025-12-31,Staffing,27543.75,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2026-01-01,Staffing,7822.92,Ventilators,T001,RSUD dr. Soetomo,A,Low
+2026-01-02,Supplies,31689.15,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2026-01-03,Staffing,33812.53,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2026-01-04,Equipment,29654.87,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2026-01-05,Supplies,59290.41,Ventilators,T001,RSUD dr. Soetomo,A,High
+2026-01-06,Supplies,34941.49,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2026-01-07,Staffing,52671.67,Ventilators,T001,RSUD dr. Soetomo,A,High
+2026-01-08,Staffing,50985.79,Ventilators,T001,RSUD dr. Soetomo,A,High
+2026-01-09,Staffing,16891.18,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2026-01-10,Supplies,41663.24,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2026-01-11,Staffing,5063.98,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2026-01-12,Staffing,35615.93,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2026-01-13,Staffing,9491.8,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2026-01-14,Staffing,1554.38,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2026-01-15,Staffing,27379.91,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2026-01-16,Supplies,67471.88,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2026-01-17,Supplies,48287.18,Ventilators,T001,RSUD dr. Soetomo,A,High
+2026-01-18,Equipment,25371.98,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2026-01-19,Equipment,50390.09,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2026-01-20,Equipment,39763.56,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2026-01-21,Supplies,46658.85,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2026-01-22,Staffing,9511.14,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Low
+2026-01-23,Staffing,33644.76,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2026-01-24,Staffing,55489.2,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2026-01-25,Equipment,27732.1,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2026-01-26,Supplies,66943.28,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2026-01-27,Equipment,42461.59,Ventilators,T001,RSUD dr. Soetomo,A,High
+2026-01-28,Equipment,66022.35,Ventilators,T001,RSUD dr. Soetomo,A,High
+2026-01-29,Equipment,40577.01,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2026-01-30,Staffing,15821.4,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2026-01-31,Staffing,19331.61,Ventilators,T001,RSUD dr. Soetomo,A,Medium
+2026-02-01,Staffing,41191.25,Ventilators,T001,RSUD dr. Soetomo,A,High
+2026-02-02,Equipment,58295.36,Ventilators,T001,RSUD dr. Soetomo,A,High
+2026-02-03,Equipment,14777.27,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2026-02-04,Supplies,38797.82,Ventilators,T001,RSUD dr. Soetomo,A,High
+2026-02-05,Staffing,25439.74,Surgeons' salaries,T001,RSUD dr. Soetomo,A,Medium
+2026-02-06,Equipment,58232.31,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2026-02-07,Supplies,53901.72,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2026-02-08,Equipment,4202.42,Surgical masks,T001,RSUD dr. Soetomo,A,Low
+2026-02-09,Equipment,15951.8,Surgical masks,T001,RSUD dr. Soetomo,A,Medium
+2026-02-10,Equipment,42478.97,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2026-02-11,Supplies,59223.86,Surgeons' salaries,T001,RSUD dr. Soetomo,A,High
+2026-02-12,Supplies,44126.05,Surgical masks,T001,RSUD dr. Soetomo,A,High
+2024-10-01,Staffing,32331.05,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-10-02,Supplies,52533.48,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-10-03,Supplies,48396.26,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-10-04,Supplies,30699.26,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-10-05,Equipment,43691.56,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-10-06,Equipment,12864.5,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-10-07,Supplies,44055.22,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-10-08,Staffing,53716.2,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-10-09,Supplies,12997.52,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-10-10,Staffing,44434.38,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-10-11,Staffing,14548.49,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-10-12,Equipment,11611.61,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-10-13,Staffing,7514.36,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-10-14,Staffing,24615.03,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-10-15,Staffing,30705.66,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-10-16,Equipment,16812.1,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-10-17,Staffing,18419.83,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-10-18,Supplies,8040.99,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-10-19,Equipment,53545.76,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-10-20,Supplies,38343.11,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-10-21,Equipment,5475.43,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-10-22,Equipment,37903.36,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-10-23,Staffing,35912.21,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-10-24,Equipment,47627.76,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-10-25,Supplies,39180.03,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-10-26,Staffing,2388.56,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-10-27,Supplies,33297.14,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-10-28,Staffing,1283.94,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-10-29,Supplies,18325.41,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-10-30,Staffing,16894.6,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-10-31,Equipment,5961.15,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-11-01,Equipment,3537.85,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-11-02,Equipment,10791.36,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-11-03,Equipment,45778.71,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-11-04,Equipment,14494.07,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-11-05,Staffing,11864.06,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-11-06,Supplies,52834.6,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-11-07,Supplies,7307.52,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-11-08,Equipment,17087.0,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-11-09,Equipment,44959.7,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-11-10,Equipment,35233.53,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-11-11,Supplies,4853.38,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-11-12,Equipment,51281.13,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-11-13,Supplies,16090.92,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-11-14,Staffing,22116.75,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-11-15,Supplies,32137.46,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-11-16,Equipment,32362.53,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-11-17,Staffing,15336.87,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-11-18,Supplies,42685.56,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-11-19,Equipment,19297.49,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-11-20,Equipment,41444.11,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-11-21,Supplies,9110.09,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-11-22,Supplies,23672.5,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-11-23,Equipment,2461.67,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-11-24,Staffing,21048.4,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-11-25,Staffing,2048.44,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-11-26,Equipment,43872.78,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-11-27,Staffing,15599.39,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-11-28,Equipment,43207.1,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-11-29,Staffing,44035.22,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-11-30,Supplies,5495.2,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-12-01,Staffing,28997.35,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-12-02,Equipment,7229.3,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-12-03,Equipment,53794.24,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-12-04,Supplies,40775.45,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-12-05,Supplies,7596.15,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-12-06,Supplies,28534.88,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-12-07,Supplies,54539.28,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-12-08,Staffing,45007.74,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-12-09,Supplies,40390.08,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-12-10,Supplies,48375.01,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-12-11,Supplies,52877.95,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-12-12,Supplies,35905.13,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-12-13,Equipment,27868.52,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-12-14,Staffing,16854.02,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-12-15,Supplies,13103.06,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-12-16,Equipment,13062.58,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-12-17,Staffing,25278.38,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-12-18,Staffing,24388.75,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-12-19,Supplies,49580.55,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-12-20,Supplies,35866.26,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-12-21,Staffing,3976.04,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-12-22,Equipment,4069.19,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-12-23,Supplies,35169.18,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-12-24,Supplies,3685.21,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-12-25,Staffing,50454.74,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-12-26,Supplies,5730.05,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-12-27,Equipment,4164.9,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-12-28,Supplies,40358.59,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2024-12-29,Staffing,26520.18,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-12-30,Supplies,11230.27,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2024-12-31,Staffing,20002.05,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-01-01,Supplies,33096.47,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-01-02,Supplies,4202.57,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-01-03,Equipment,44018.78,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-01-04,Staffing,2001.03,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-01-05,Staffing,24849.79,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-01-06,Supplies,36006.48,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-01-07,Supplies,48509.65,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-01-08,Supplies,23872.57,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-01-09,Staffing,23795.9,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-01-10,Supplies,23472.1,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-01-11,Supplies,52326.53,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-01-12,Equipment,33033.26,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-01-13,Staffing,16804.36,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-01-14,Supplies,21503.06,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-01-15,Staffing,20083.02,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-01-16,Supplies,11273.61,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-01-17,Staffing,28746.73,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-01-18,Staffing,29862.87,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-01-19,Supplies,7588.46,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-01-20,Staffing,21503.08,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-01-21,Staffing,33235.53,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-01-22,Equipment,24137.02,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-01-23,Staffing,45599.71,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-01-24,Equipment,54101.69,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-01-25,Supplies,14344.47,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-01-26,Supplies,12988.89,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-01-27,Supplies,16777.63,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-01-28,Staffing,47700.9,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-01-29,Staffing,51708.43,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-01-30,Staffing,24539.94,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-01-31,Supplies,46577.21,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-02-01,Equipment,19237.36,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-02-02,Equipment,48907.75,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-02-03,Equipment,17362.84,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-02-04,Supplies,19551.43,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-02-05,Equipment,47279.52,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-02-06,Equipment,23182.82,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-02-07,Equipment,43323.93,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-02-08,Supplies,52585.26,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-02-09,Staffing,3684.15,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-02-10,Equipment,37799.3,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-02-11,Equipment,13406.49,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-02-12,Staffing,6800.08,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-02-13,Staffing,19517.84,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-02-14,Supplies,23957.55,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-02-15,Staffing,14578.76,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-02-16,Supplies,18931.33,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-02-17,Equipment,16608.45,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-02-18,Equipment,21285.52,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-02-19,Supplies,13875.77,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-02-20,Supplies,28570.31,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-02-21,Equipment,15572.44,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-02-22,Staffing,34001.68,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-02-23,Equipment,15144.92,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-02-24,Supplies,41014.05,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-02-25,Equipment,31841.93,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-02-26,Staffing,47864.2,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-02-27,Staffing,52671.14,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-02-28,Supplies,37705.25,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-03-01,Staffing,1990.76,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-03-02,Equipment,31313.47,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-03-03,Supplies,37430.16,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-03-04,Staffing,30576.48,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-03-05,Supplies,50731.87,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-03-06,Staffing,4523.09,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-03-07,Supplies,22964.13,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-03-08,Staffing,32505.54,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-03-09,Supplies,30129.82,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-03-10,Supplies,28799.91,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-03-11,Staffing,23134.51,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-03-12,Supplies,24287.88,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-03-13,Staffing,32824.53,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-03-14,Supplies,27774.35,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-03-15,Staffing,43235.39,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-03-16,Supplies,16298.08,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-03-17,Staffing,2768.3,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-03-18,Staffing,48223.01,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-03-19,Equipment,47645.34,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-03-20,Equipment,9594.75,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-03-21,Supplies,3247.46,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-03-22,Supplies,22778.71,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-03-23,Equipment,29453.93,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-03-24,Staffing,11715.14,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-03-25,Supplies,24879.12,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-03-26,Staffing,10742.26,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-03-27,Staffing,32132.69,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-03-28,Supplies,25887.78,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-03-29,Supplies,5964.33,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-03-30,Staffing,14884.58,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-03-31,Staffing,40586.68,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-04-01,Supplies,45423.94,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-04-02,Supplies,16097.5,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-04-03,Staffing,27358.09,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-04-04,Staffing,7981.51,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-04-05,Staffing,44344.36,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-04-06,Supplies,9024.92,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-04-07,Staffing,35618.29,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-04-08,Supplies,36025.63,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-04-09,Equipment,14343.62,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-04-10,Staffing,24655.22,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-04-11,Staffing,5424.84,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-04-12,Supplies,23303.51,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-04-13,Supplies,11267.22,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-04-14,Equipment,53897.38,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-04-15,Supplies,30864.32,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-04-16,Equipment,11585.94,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-04-17,Staffing,43680.26,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-04-18,Staffing,32086.66,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-04-19,Supplies,37618.27,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-04-20,Supplies,49156.94,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-04-21,Equipment,38480.87,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-04-22,Supplies,11861.92,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-04-23,Staffing,52543.57,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-04-24,Staffing,47365.41,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-04-25,Supplies,28141.64,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-04-26,Staffing,35616.2,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-04-27,Staffing,40649.49,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-04-28,Staffing,45585.88,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-04-29,Staffing,11859.14,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-04-30,Supplies,27721.34,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-05-01,Supplies,36485.34,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-05-02,Supplies,54367.2,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-05-03,Equipment,11045.01,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-05-04,Staffing,8342.49,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-05-05,Supplies,4507.27,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-05-06,Staffing,6175.39,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-05-07,Staffing,47110.64,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-05-08,Supplies,2803.9,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-05-09,Supplies,44511.53,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-05-10,Supplies,7275.85,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-05-11,Supplies,13955.23,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-05-12,Equipment,33025.63,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-05-13,Supplies,44987.05,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-05-14,Equipment,49257.3,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-05-15,Equipment,48608.08,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-05-16,Staffing,4889.82,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-05-17,Equipment,5363.81,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-05-18,Staffing,25782.05,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-05-19,Equipment,36594.14,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-05-20,Supplies,49647.22,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-05-21,Staffing,4209.29,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-05-22,Staffing,20525.54,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-05-23,Supplies,49913.92,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-05-24,Staffing,42859.34,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-05-25,Equipment,45324.3,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-05-26,Staffing,13795.98,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-05-27,Staffing,37928.67,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-05-28,Staffing,32956.69,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-05-29,Equipment,36020.74,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-05-30,Equipment,20500.17,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-05-31,Supplies,24307.51,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-06-01,Equipment,48690.02,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-06-02,Equipment,19000.27,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-06-03,Supplies,38356.96,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-06-04,Staffing,26060.67,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-06-05,Equipment,22192.64,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-06-06,Staffing,29921.85,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-06-07,Supplies,25736.38,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-06-08,Equipment,4058.58,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-06-09,Staffing,7170.47,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-06-10,Supplies,38078.43,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-06-11,Equipment,42821.2,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-06-12,Equipment,34273.46,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-06-13,Equipment,24077.79,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-06-14,Equipment,39670.95,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-06-15,Supplies,41650.12,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-06-16,Equipment,48384.13,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-06-17,Staffing,22057.29,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-06-18,Equipment,11757.86,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-06-19,Equipment,12968.08,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-06-20,Staffing,36373.06,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-06-21,Equipment,29706.39,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-06-22,Supplies,41453.44,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-06-23,Equipment,4974.75,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-06-24,Supplies,21877.17,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-06-25,Supplies,38012.06,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-06-26,Equipment,41045.66,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-06-27,Equipment,21356.75,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-06-28,Equipment,2697.63,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-06-29,Supplies,8757.42,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-06-30,Staffing,1279.2,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-07-01,Supplies,4212.34,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-07-02,Equipment,39021.46,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-07-03,Equipment,23056.19,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-07-04,Staffing,34608.56,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-07-05,Supplies,21414.78,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-07-06,Equipment,36588.64,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-07-07,Supplies,50585.64,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-07-08,Staffing,28051.76,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-07-09,Staffing,10785.93,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-07-10,Supplies,45376.23,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-07-11,Supplies,13220.34,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-07-12,Staffing,1875.88,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-07-13,Supplies,19197.06,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-07-14,Supplies,40112.45,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-07-15,Supplies,18640.34,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-07-16,Staffing,54463.17,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-07-17,Equipment,28350.11,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-07-18,Equipment,5009.34,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-07-19,Supplies,17684.69,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-07-20,Staffing,17693.06,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-07-21,Supplies,30654.37,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-07-22,Equipment,5547.08,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-07-23,Equipment,52296.24,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-07-24,Supplies,23461.81,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-07-25,Supplies,52691.09,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-07-26,Supplies,51766.1,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-07-27,Equipment,15736.51,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-07-28,Staffing,16871.34,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-07-29,Equipment,35389.63,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-07-30,Staffing,21838.38,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-07-31,Staffing,18921.95,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-08-01,Supplies,36193.94,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-08-02,Staffing,14006.19,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-08-03,Equipment,12051.34,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-08-04,Equipment,17236.73,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-08-05,Supplies,33268.43,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-08-06,Staffing,11098.55,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-08-07,Equipment,6036.4,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-08-08,Equipment,29730.11,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-08-09,Supplies,33970.82,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-08-10,Supplies,15089.33,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-08-11,Staffing,42445.89,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-08-12,Staffing,4871.1,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-08-13,Supplies,39534.32,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-08-14,Supplies,22670.34,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-08-15,Staffing,22930.58,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-08-16,Staffing,26679.17,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-08-17,Supplies,53879.23,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-08-18,Supplies,43933.3,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-08-19,Equipment,11575.56,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-08-20,Supplies,10624.27,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-08-21,Equipment,40954.38,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-08-22,Supplies,18432.67,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-08-23,Supplies,43764.19,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-08-24,Supplies,29540.9,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-08-25,Supplies,32544.27,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-08-26,Equipment,13528.13,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-08-27,Staffing,19688.88,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-08-28,Staffing,15152.21,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-08-29,Staffing,45739.4,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-08-30,Equipment,20986.92,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-08-31,Supplies,47788.18,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-09-01,Staffing,52261.89,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-09-02,Supplies,24683.88,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-09-03,Supplies,45890.9,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-09-04,Equipment,52609.47,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-09-05,Equipment,17471.03,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-09-06,Equipment,35116.17,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-09-07,Staffing,47798.45,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-09-08,Supplies,21893.01,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-09-09,Staffing,31492.68,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-09-10,Supplies,10325.24,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-09-11,Staffing,54193.56,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-09-12,Supplies,27539.16,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-09-13,Supplies,24942.47,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-09-14,Supplies,29630.58,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-09-15,Staffing,30201.24,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-09-16,Staffing,42932.04,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-09-17,Staffing,38545.86,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-09-18,Staffing,48905.47,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-09-19,Staffing,42344.6,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-09-20,Equipment,3463.24,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-09-21,Staffing,13666.86,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-09-22,Equipment,37977.39,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-09-23,Supplies,46619.57,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-09-24,Equipment,27256.86,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-09-25,Staffing,40057.35,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-09-26,Supplies,29179.73,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-09-27,Staffing,22370.41,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-09-28,Supplies,17135.9,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-09-29,Equipment,3985.93,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-09-30,Staffing,9799.37,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-10-01,Supplies,17580.44,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-10-02,Staffing,24651.73,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-10-03,Supplies,34041.96,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-10-04,Supplies,8992.8,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-10-05,Equipment,36913.16,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-10-06,Staffing,8420.61,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-10-07,Equipment,38522.59,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-10-08,Supplies,50371.84,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-10-09,Supplies,13113.4,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-10-10,Supplies,18519.01,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-10-11,Staffing,12282.64,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-10-12,Supplies,4428.39,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-10-13,Equipment,16042.61,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-10-14,Equipment,28293.5,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-10-15,Staffing,15190.21,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-10-16,Supplies,45666.92,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-10-17,Supplies,1246.42,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-10-18,Supplies,33128.34,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-10-19,Equipment,12207.91,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-10-20,Staffing,33877.24,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-10-21,Equipment,47049.97,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-10-22,Supplies,22416.16,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-10-23,Staffing,26690.24,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-10-24,Equipment,53443.74,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-10-25,Supplies,22050.86,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-10-26,Staffing,33874.87,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-10-27,Equipment,17789.97,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-10-28,Supplies,43852.92,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-10-29,Staffing,23160.41,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-10-30,Equipment,46725.95,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-10-31,Supplies,30000.09,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-11-01,Staffing,5677.87,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-11-02,Supplies,18346.91,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-11-03,Supplies,14469.96,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-11-04,Staffing,35943.42,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-11-05,Supplies,45841.66,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-11-06,Staffing,53133.8,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-11-07,Staffing,49529.28,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-11-08,Staffing,26975.8,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-11-09,Equipment,20847.96,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-11-10,Supplies,20451.51,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-11-11,Supplies,52975.45,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-11-12,Supplies,37191.64,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-11-13,Staffing,22068.36,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-11-14,Staffing,37594.6,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-11-15,Staffing,15691.21,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-11-16,Equipment,20273.65,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-11-17,Equipment,38364.83,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-11-18,Supplies,14929.29,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-11-19,Supplies,14457.51,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-11-20,Staffing,10165.72,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-11-21,Supplies,22809.32,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-11-22,Staffing,24652.86,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-11-23,Supplies,52727.92,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-11-24,Staffing,15375.95,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-11-25,Supplies,3358.56,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-11-26,Equipment,28135.69,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-11-27,Supplies,6250.33,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-11-28,Supplies,16081.81,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-11-29,Equipment,31888.05,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-11-30,Equipment,13867.45,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-12-01,Supplies,22597.07,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-12-02,Equipment,51255.18,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-12-03,Equipment,4372.7,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-12-04,Equipment,24678.39,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-12-05,Staffing,35565.22,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-12-06,Staffing,32507.29,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-12-07,Equipment,36696.55,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-12-08,Staffing,3566.5,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-12-09,Equipment,14561.99,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-12-10,Supplies,2896.27,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-12-11,Supplies,36540.82,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-12-12,Supplies,23777.35,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-12-13,Supplies,32525.2,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-12-14,Supplies,26427.04,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-12-15,Equipment,53130.46,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-12-16,Equipment,8433.79,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-12-17,Supplies,30215.8,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-12-18,Equipment,24523.03,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-12-19,Supplies,24463.89,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-12-20,Staffing,5785.11,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-12-21,Equipment,30593.27,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-12-22,Supplies,41759.38,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-12-23,Supplies,36544.86,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-12-24,Equipment,13607.76,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-12-25,Supplies,12876.17,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-12-26,Equipment,46759.09,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-12-27,Staffing,49311.35,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-12-28,Equipment,46306.98,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2025-12-29,Equipment,4054.89,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2025-12-30,Staffing,15736.88,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2025-12-31,Staffing,21641.52,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2026-01-01,Staffing,6146.58,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2026-01-02,Supplies,24898.62,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2026-01-03,Staffing,26566.99,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2026-01-04,Equipment,23300.26,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2026-01-05,Supplies,46585.32,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2026-01-06,Supplies,27454.03,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2026-01-07,Staffing,41384.88,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2026-01-08,Staffing,40060.26,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2026-01-09,Staffing,13271.64,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2026-01-10,Supplies,32735.41,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2026-01-11,Staffing,3978.84,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2026-01-12,Staffing,27983.95,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2026-01-13,Staffing,7457.85,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2026-01-14,Staffing,1221.3,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2026-01-15,Staffing,21512.79,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2026-01-16,Supplies,53013.62,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2026-01-17,Supplies,37939.92,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2026-01-18,Equipment,19935.12,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2026-01-19,Equipment,39592.21,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2026-01-20,Equipment,31242.79,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2026-01-21,Supplies,36660.52,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2026-01-22,Staffing,7473.04,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2026-01-23,Staffing,26435.17,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2026-01-24,Staffing,43598.65,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2026-01-25,Equipment,21789.5,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2026-01-26,Supplies,52598.29,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2026-01-27,Equipment,33362.68,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2026-01-28,Equipment,51874.7,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2026-01-29,Equipment,31881.94,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2026-01-30,Staffing,12431.1,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2026-01-31,Staffing,15189.12,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2026-02-01,Staffing,32364.55,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2026-02-02,Equipment,45803.49,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,High
+2026-02-03,Equipment,11610.71,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2026-02-04,Supplies,30484.0,Ventilators,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2026-02-05,Staffing,19988.36,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2026-02-06,Equipment,45753.96,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,High
+2026-02-07,Supplies,42351.35,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2026-02-08,Equipment,3301.9,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2026-02-09,Equipment,12533.55,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Low
+2026-02-10,Equipment,33376.33,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2026-02-11,Supplies,46533.04,Surgeons' salaries,T002,RSUD dr. Mohamad Soewandhie,B,High
+2026-02-12,Supplies,34670.47,Surgical masks,T002,RSUD dr. Mohamad Soewandhie,B,Medium
+2024-10-01,Staffing,24983.08,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-10-02,Supplies,40594.05,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2024-10-03,Supplies,37397.11,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2024-10-04,Supplies,23722.16,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-10-05,Equipment,33761.66,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-10-06,Equipment,9940.75,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-10-07,Supplies,34042.67,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-10-08,Staffing,41507.97,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2024-10-09,Supplies,10043.54,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-10-10,Staffing,34335.66,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-10-11,Staffing,11242.02,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-10-12,Equipment,8972.61,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-10-13,Staffing,5806.55,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-10-14,Staffing,19020.7,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-10-15,Staffing,23727.1,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-10-16,Equipment,12991.17,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-10-17,Staffing,14233.5,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-10-18,Supplies,6213.49,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-10-19,Equipment,41376.27,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2024-10-20,Supplies,29628.76,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-10-21,Equipment,4231.01,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-10-22,Equipment,29288.96,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-10-23,Staffing,27750.34,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-10-24,Equipment,36803.27,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2024-10-25,Supplies,30275.48,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-10-26,Staffing,1845.71,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-10-27,Supplies,25729.61,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-10-28,Staffing,992.14,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-10-29,Supplies,14160.54,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-10-30,Staffing,13054.92,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-10-31,Equipment,4606.35,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-11-01,Equipment,2733.8,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-11-02,Equipment,8338.78,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-11-03,Equipment,35374.46,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2024-11-04,Equipment,11199.97,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-11-05,Staffing,9167.68,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-11-06,Supplies,40826.73,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2024-11-07,Supplies,5646.72,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-11-08,Equipment,13203.59,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-11-09,Equipment,34741.58,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-11-10,Equipment,27225.91,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-11-11,Supplies,3750.34,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-11-12,Equipment,39626.33,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2024-11-13,Supplies,12433.89,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-11-14,Staffing,17090.22,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-11-15,Supplies,24833.49,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-11-16,Equipment,25007.41,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-11-17,Staffing,11851.22,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-11-18,Supplies,32984.29,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-11-19,Equipment,14911.69,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-11-20,Equipment,32024.99,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-11-21,Supplies,7039.62,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-11-22,Supplies,18292.38,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-11-23,Equipment,1902.2,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-11-24,Staffing,16264.67,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-11-25,Staffing,1582.89,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-11-26,Equipment,33901.7,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-11-27,Staffing,12054.07,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-11-28,Equipment,33387.3,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-11-29,Staffing,34027.22,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-11-30,Supplies,4246.29,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-12-01,Staffing,22407.05,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-12-02,Equipment,5586.28,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-12-03,Equipment,41568.27,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2024-12-04,Supplies,31508.3,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-12-05,Supplies,5869.75,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-12-06,Supplies,22049.68,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-12-07,Supplies,42143.99,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2024-12-08,Staffing,34778.71,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-12-09,Supplies,31210.51,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-12-10,Supplies,37380.69,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2024-12-11,Supplies,40860.23,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2024-12-12,Supplies,27744.88,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-12-13,Equipment,21534.77,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-12-14,Staffing,13023.56,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-12-15,Supplies,10125.09,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-12-16,Equipment,10093.81,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-12-17,Staffing,19533.3,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-12-18,Staffing,18845.85,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-12-19,Supplies,38312.25,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2024-12-20,Supplies,27714.84,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-12-21,Staffing,3072.39,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-12-22,Equipment,3144.37,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-12-23,Supplies,27176.18,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-12-24,Supplies,2847.66,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-12-25,Staffing,38987.76,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2024-12-26,Supplies,4427.77,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-12-27,Equipment,3218.33,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-12-28,Supplies,31186.19,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-12-29,Staffing,20492.86,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-12-30,Supplies,8677.94,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2024-12-31,Staffing,15456.13,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-01-01,Supplies,25574.54,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-01-02,Supplies,3247.44,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-01-03,Equipment,34014.51,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-01-04,Staffing,1546.25,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-01-05,Staffing,19202.11,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-01-06,Supplies,27823.19,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-01-07,Supplies,37484.73,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-01-08,Supplies,18446.99,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-01-09,Staffing,18387.74,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-01-10,Supplies,18137.53,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-01-11,Supplies,40434.13,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-01-12,Equipment,25525.7,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-01-13,Staffing,12985.19,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-01-14,Supplies,16616.0,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-01-15,Staffing,15518.7,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-01-16,Supplies,8711.43,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-01-17,Staffing,22213.38,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-01-18,Staffing,23075.85,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-01-19,Supplies,5863.81,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-01-20,Staffing,16616.01,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-01-21,Staffing,25682.0,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-01-22,Equipment,18651.34,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-01-23,Staffing,35236.14,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-01-24,Equipment,41805.85,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2025-01-25,Supplies,11084.37,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-01-26,Supplies,10036.87,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-01-27,Supplies,12964.53,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-01-28,Staffing,36859.78,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2025-01-29,Staffing,39956.51,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-01-30,Staffing,18962.68,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-01-31,Supplies,35991.48,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2025-02-01,Equipment,14865.23,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-02-02,Equipment,37792.35,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-02-03,Equipment,13416.74,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-02-04,Supplies,15107.93,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-02-05,Equipment,36534.17,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-02-06,Equipment,17914.0,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-02-07,Equipment,33477.58,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-02-08,Supplies,40634.06,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-02-09,Staffing,2846.85,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-02-10,Equipment,29208.55,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-02-11,Equipment,10359.56,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-02-12,Staffing,5254.61,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-02-13,Staffing,15081.97,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-02-14,Supplies,18512.65,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-02-15,Staffing,11265.41,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-02-16,Supplies,14628.76,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-02-17,Equipment,12833.8,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-02-18,Equipment,16447.9,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-02-19,Supplies,10722.19,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-02-20,Supplies,22077.06,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-02-21,Equipment,12033.25,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-02-22,Staffing,26274.03,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-02-23,Equipment,11702.89,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-02-24,Supplies,31692.68,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-02-25,Equipment,24605.13,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-02-26,Staffing,36985.97,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2025-02-27,Staffing,40700.42,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2025-02-28,Supplies,29135.88,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-03-01,Staffing,1538.31,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-03-02,Equipment,24196.77,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-03-03,Supplies,28923.31,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-03-04,Staffing,23627.28,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-03-05,Supplies,39201.9,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2025-03-06,Staffing,3495.12,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-03-07,Supplies,17745.01,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-03-08,Staffing,25117.92,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-03-09,Supplies,23282.14,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-03-10,Supplies,22254.48,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-03-11,Staffing,17876.66,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-03-12,Supplies,18767.91,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-03-13,Staffing,25364.41,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-03-14,Supplies,21462.0,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-03-15,Staffing,33409.16,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-03-16,Supplies,12593.97,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-03-17,Staffing,2139.14,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-03-18,Staffing,37263.24,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-03-19,Equipment,36816.86,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-03-20,Equipment,7414.12,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-03-21,Supplies,2509.4,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-03-22,Supplies,17601.73,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-03-23,Equipment,22759.86,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-03-24,Staffing,9052.61,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-03-25,Supplies,19224.77,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-03-26,Staffing,8300.84,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-03-27,Staffing,24829.81,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-03-28,Supplies,20004.2,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-03-29,Supplies,4608.8,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-03-30,Staffing,11501.72,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-03-31,Staffing,31362.43,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-04-01,Supplies,35100.32,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-04-02,Supplies,12438.98,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-04-03,Staffing,21140.34,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-04-04,Staffing,6167.53,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-04-05,Staffing,34266.09,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-04-06,Supplies,6973.8,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-04-07,Staffing,27523.22,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-04-08,Supplies,27837.98,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-04-09,Equipment,11083.7,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-04-10,Staffing,19051.76,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-04-11,Staffing,4191.92,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-04-12,Supplies,18007.26,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-04-13,Supplies,8706.49,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-04-14,Equipment,41647.98,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-04-15,Supplies,23849.7,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-04-16,Equipment,8952.77,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-04-17,Staffing,33752.93,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-04-18,Staffing,24794.24,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-04-19,Supplies,29068.67,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-04-20,Supplies,37984.91,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-04-21,Equipment,29735.22,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-04-22,Supplies,9166.03,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-04-23,Staffing,40601.85,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-04-24,Staffing,36600.54,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-04-25,Supplies,21745.81,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-04-26,Staffing,27521.61,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-04-27,Staffing,31410.97,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-04-28,Staffing,35225.45,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-04-29,Staffing,9163.88,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-04-30,Supplies,21421.04,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-05-01,Supplies,28193.22,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-05-02,Supplies,42011.02,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-05-03,Equipment,8534.78,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-05-04,Staffing,6446.47,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-05-05,Supplies,3482.89,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-05-06,Staffing,4771.89,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-05-07,Staffing,36403.67,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-05-08,Supplies,2166.65,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-05-09,Supplies,34395.28,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-05-10,Supplies,5622.25,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-05-11,Supplies,10783.58,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-05-12,Equipment,25519.8,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-05-13,Supplies,34762.72,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-05-14,Equipment,38062.46,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2025-05-15,Equipment,37560.79,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-05-16,Staffing,3778.5,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-05-17,Equipment,4144.76,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-05-18,Staffing,19922.5,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-05-19,Equipment,28277.29,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-05-20,Supplies,38363.76,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-05-21,Staffing,3252.64,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-05-22,Staffing,15860.64,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-05-23,Supplies,38569.85,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2025-05-24,Staffing,33118.58,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-05-25,Equipment,35023.32,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-05-26,Staffing,10660.53,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-05-27,Staffing,29308.52,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-05-28,Staffing,25466.54,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-05-29,Equipment,27834.21,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-05-30,Equipment,15841.04,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-05-31,Supplies,18783.08,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-01,Equipment,37624.1,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-06-02,Equipment,14682.02,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-06-03,Supplies,29639.47,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-04,Staffing,20137.79,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-05,Equipment,17148.86,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-06,Staffing,23121.43,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-07,Supplies,19887.2,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-08,Equipment,3136.18,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-06-09,Staffing,5540.82,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-06-10,Supplies,29424.24,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-11,Equipment,33089.11,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-12,Equipment,26484.04,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-13,Equipment,18605.57,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-14,Equipment,30654.82,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-15,Supplies,32184.19,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-16,Equipment,37387.73,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-06-17,Staffing,17044.27,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-18,Equipment,9085.62,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-06-19,Equipment,10020.79,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-06-20,Staffing,28106.46,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-21,Equipment,22954.94,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-22,Supplies,32032.21,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-23,Equipment,3844.12,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-06-24,Supplies,16905.09,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-25,Supplies,29372.96,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-26,Equipment,31717.1,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-27,Equipment,16502.95,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-06-28,Equipment,2084.53,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-06-29,Supplies,6767.1,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-06-30,Staffing,988.47,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-07-01,Supplies,3254.99,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-07-02,Equipment,30152.94,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-07-03,Equipment,17816.14,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-07-04,Staffing,26742.98,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-07-05,Supplies,16547.78,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-07-06,Equipment,28273.04,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-07-07,Supplies,39088.91,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2025-07-08,Staffing,21676.36,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-07-09,Staffing,8334.58,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-07-10,Supplies,35063.45,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2025-07-11,Supplies,10215.72,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-07-12,Staffing,1449.55,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-07-13,Supplies,14834.09,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-07-14,Supplies,30995.98,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-07-15,Supplies,14403.9,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-07-16,Staffing,42085.17,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-07-17,Equipment,21906.91,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-07-18,Equipment,3870.86,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-07-19,Supplies,13665.44,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-07-20,Staffing,13671.91,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-07-21,Supplies,23687.47,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-07-22,Equipment,4286.38,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-07-23,Equipment,40410.73,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-07-24,Supplies,18129.58,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-07-25,Supplies,40715.84,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-07-26,Supplies,40001.08,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-07-27,Equipment,12160.03,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-07-28,Staffing,13036.94,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-07-29,Equipment,27346.53,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-07-30,Staffing,16875.11,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-07-31,Staffing,14621.5,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-08-01,Supplies,27968.04,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-08-02,Staffing,10822.96,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-08-03,Equipment,9312.4,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-08-04,Equipment,13319.29,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-08-05,Supplies,25707.43,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-08-06,Staffing,8576.15,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-08-07,Equipment,4664.49,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-08-08,Equipment,22973.26,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-08-09,Supplies,26250.18,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-08-10,Supplies,11659.93,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-08-11,Staffing,32799.09,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-08-12,Staffing,3764.03,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-08-13,Supplies,30549.25,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-08-14,Supplies,17517.99,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-08-15,Staffing,17719.08,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-08-16,Staffing,20615.72,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-08-17,Supplies,41633.95,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-08-18,Supplies,33948.46,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-08-19,Equipment,8944.75,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-08-20,Supplies,8209.67,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-08-21,Equipment,31646.56,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-08-22,Supplies,14243.42,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-08-23,Supplies,33817.79,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-08-24,Supplies,22827.06,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-08-25,Supplies,25147.84,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-08-26,Equipment,10453.55,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-08-27,Staffing,15214.13,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-08-28,Staffing,11708.53,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-08-29,Staffing,35344.08,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-08-30,Equipment,16217.17,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-08-31,Supplies,36927.23,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-09-01,Staffing,40384.19,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2025-09-02,Supplies,19073.91,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-09-03,Supplies,35461.15,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-09-04,Equipment,40652.77,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-09-05,Equipment,13500.34,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-09-06,Equipment,27135.22,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-09-07,Staffing,36935.17,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-09-08,Supplies,16917.33,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-09-09,Staffing,24335.25,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-09-10,Supplies,7978.59,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-09-11,Staffing,41876.84,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-09-12,Supplies,21280.26,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-09-13,Supplies,19273.72,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-09-14,Supplies,22896.36,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-09-15,Staffing,23337.32,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-09-16,Staffing,33174.76,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-09-17,Staffing,29785.44,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-09-18,Staffing,37790.59,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-09-19,Staffing,32720.83,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-09-20,Equipment,2676.14,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-09-21,Staffing,10560.76,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-09-22,Equipment,29346.16,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-09-23,Supplies,36024.22,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-09-24,Equipment,21062.12,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-09-25,Staffing,30953.4,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-09-26,Supplies,22547.98,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-09-27,Staffing,17286.23,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-09-28,Supplies,13241.38,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-09-29,Equipment,3080.03,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-09-30,Staffing,7572.24,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-10-01,Supplies,13584.89,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-10-02,Staffing,19049.06,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-10-03,Supplies,26305.15,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-10-04,Supplies,6948.98,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-10-05,Equipment,28523.81,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-10-06,Staffing,6506.84,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-10-07,Equipment,29767.46,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-10-08,Supplies,38923.69,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-10-09,Supplies,10133.08,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-10-10,Supplies,14310.14,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-10-11,Staffing,9491.13,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-10-12,Supplies,3421.94,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-10-13,Equipment,12396.56,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-10-14,Equipment,21863.16,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-10-15,Staffing,11737.89,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-10-16,Supplies,35288.07,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-10-17,Supplies,963.14,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-10-18,Supplies,25599.17,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-10-19,Equipment,9433.38,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-10-20,Staffing,26177.87,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-10-21,Equipment,36356.8,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2025-10-22,Supplies,17321.58,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-10-23,Staffing,20624.27,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-10-24,Equipment,41297.44,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2025-10-25,Supplies,17039.3,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-10-26,Staffing,26176.04,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-10-27,Equipment,13746.8,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-10-28,Supplies,33886.35,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-10-29,Staffing,17896.68,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-10-30,Equipment,36106.42,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-10-31,Supplies,23181.89,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-11-01,Staffing,4387.44,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-11-02,Supplies,14177.16,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-11-03,Supplies,11181.33,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-11-04,Staffing,27774.46,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-11-05,Supplies,35423.1,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-11-06,Staffing,41057.93,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2025-11-07,Staffing,38272.63,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2025-11-08,Staffing,20844.93,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-11-09,Equipment,16109.79,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-11-10,Supplies,15803.44,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-11-11,Supplies,40935.57,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-11-12,Supplies,28738.99,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-11-13,Staffing,17052.83,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-11-14,Staffing,29050.37,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-11-15,Staffing,12125.03,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-11-16,Equipment,15666.0,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-11-17,Equipment,29645.55,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-11-18,Supplies,11536.27,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-11-19,Supplies,11171.71,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-11-20,Staffing,7855.33,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-11-21,Supplies,17625.39,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-11-22,Staffing,19049.94,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-11-23,Supplies,40744.3,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-11-24,Staffing,11881.42,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-11-25,Supplies,2595.25,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-11-26,Equipment,21741.22,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-11-27,Supplies,4829.8,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-11-28,Supplies,12426.86,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-11-29,Equipment,24640.77,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-11-30,Equipment,10715.75,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-12-01,Supplies,17461.37,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-12-02,Equipment,39606.28,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-12-03,Equipment,3378.9,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-12-04,Equipment,19069.66,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-12-05,Staffing,27482.22,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-12-06,Staffing,25119.27,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-12-07,Equipment,28356.42,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-12-08,Staffing,2755.93,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-12-09,Equipment,11252.44,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-12-10,Supplies,2238.02,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-12-11,Supplies,28236.09,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-12-12,Supplies,18373.4,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-12-13,Supplies,25133.11,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-12-14,Supplies,20420.89,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-12-15,Equipment,41055.36,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2025-12-16,Equipment,6517.02,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-12-17,Supplies,23348.57,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-12-18,Equipment,18949.61,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-12-19,Supplies,18903.92,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-12-20,Staffing,4470.31,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-12-21,Equipment,23640.25,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-12-22,Supplies,32268.61,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-12-23,Supplies,28239.21,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2025-12-24,Equipment,10515.09,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-12-25,Supplies,9949.77,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-12-26,Equipment,36132.02,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2025-12-27,Staffing,38104.22,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2025-12-28,Equipment,35782.66,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2025-12-29,Equipment,3133.32,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-12-30,Staffing,12160.31,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2025-12-31,Staffing,16722.99,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-01,Staffing,4749.63,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2026-01-02,Supplies,19239.84,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-03,Staffing,20529.04,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-04,Equipment,18004.74,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-05,Supplies,35997.75,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2026-01-06,Supplies,21214.48,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-07,Staffing,31979.23,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-08,Staffing,30955.66,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-09,Staffing,10255.36,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2026-01-10,Supplies,25295.54,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-11,Staffing,3074.56,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2026-01-12,Staffing,21623.96,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-13,Staffing,5762.88,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2026-01-14,Staffing,943.73,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2026-01-15,Staffing,16623.52,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-16,Supplies,40965.07,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2026-01-17,Supplies,29317.21,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-18,Equipment,15404.41,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-19,Equipment,30593.98,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-20,Equipment,24142.16,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-21,Supplies,28328.59,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-22,Staffing,5774.62,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Low
+2026-01-23,Staffing,20427.17,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-24,Staffing,33689.87,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-25,Equipment,16837.34,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-26,Supplies,40644.14,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2026-01-27,Equipment,25780.25,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-28,Equipment,40085.0,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2026-01-29,Equipment,24636.04,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-01-30,Staffing,9605.85,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2026-01-31,Staffing,11737.05,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Low
+2026-02-01,Staffing,25008.97,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-02-02,Equipment,35393.61,Ventilators,T003,RSUD Bhakti Dharma Husada,C,High
+2026-02-03,Equipment,8971.91,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2026-02-04,Supplies,23555.82,Ventilators,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-02-05,Staffing,15445.55,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-02-06,Equipment,35355.33,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,High
+2026-02-07,Supplies,32726.05,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-02-08,Equipment,2551.47,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2026-02-09,Equipment,9685.02,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Low
+2026-02-10,Equipment,25790.8,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2026-02-11,Supplies,35957.35,Surgeons' salaries,T003,RSUD Bhakti Dharma Husada,C,High
+2026-02-12,Supplies,26790.82,Surgical masks,T003,RSUD Bhakti Dharma Husada,C,Medium
+2024-10-01,Staffing,20574.3,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2024-10-02,Supplies,33430.4,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2024-10-03,Supplies,30797.62,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2024-10-04,Supplies,19535.89,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-10-05,Equipment,27803.72,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2024-10-06,Equipment,8186.5,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2024-10-07,Supplies,28035.14,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-10-08,Staffing,34183.04,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2024-10-09,Supplies,8271.15,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2024-10-10,Staffing,28276.42,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2024-10-11,Staffing,9258.13,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2024-10-12,Equipment,7389.21,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2024-10-13,Staffing,4781.87,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2024-10-14,Staffing,15664.11,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-10-15,Staffing,19539.97,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-10-16,Equipment,10698.61,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2024-10-17,Staffing,11721.71,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2024-10-18,Supplies,5116.99,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2024-10-19,Equipment,34074.57,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2024-10-20,Supplies,24400.16,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2024-10-21,Equipment,3484.36,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2024-10-22,Equipment,24120.32,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2024-10-23,Staffing,22853.22,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-10-24,Equipment,30308.57,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-10-25,Supplies,24932.75,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2024-10-26,Staffing,1519.99,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2024-10-27,Supplies,21189.09,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2024-10-28,Staffing,817.05,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2024-10-29,Supplies,11661.62,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2024-10-30,Staffing,10751.11,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2024-10-31,Equipment,3793.46,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2024-11-01,Equipment,2251.36,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2024-11-02,Equipment,6867.23,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2024-11-03,Equipment,29131.91,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2024-11-04,Equipment,9223.5,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2024-11-05,Staffing,7549.86,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2024-11-06,Supplies,33622.02,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-11-07,Supplies,4650.24,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2024-11-08,Equipment,10873.55,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2024-11-09,Equipment,28610.71,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2024-11-10,Equipment,22421.34,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2024-11-11,Supplies,3088.51,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2024-11-12,Equipment,32633.45,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2024-11-13,Supplies,10239.68,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2024-11-14,Staffing,14074.3,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2024-11-15,Supplies,20451.11,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-11-16,Equipment,20594.34,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2024-11-17,Staffing,9759.83,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2024-11-18,Supplies,27163.54,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-11-19,Equipment,12280.22,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2024-11-20,Equipment,26373.52,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2024-11-21,Supplies,5797.33,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2024-11-22,Supplies,15064.31,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2024-11-23,Equipment,1566.52,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2024-11-24,Staffing,13394.44,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2024-11-25,Staffing,1303.55,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2024-11-26,Equipment,27919.04,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2024-11-27,Staffing,9926.88,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2024-11-28,Equipment,27495.43,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2024-11-29,Staffing,28022.41,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2024-11-30,Supplies,3496.95,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2024-12-01,Staffing,18452.86,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2024-12-02,Equipment,4600.46,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2024-12-03,Equipment,34232.7,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2024-12-04,Supplies,25948.01,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2024-12-05,Supplies,4833.91,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2024-12-06,Supplies,18158.56,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2024-12-07,Supplies,34706.81,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-12-08,Staffing,28641.29,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2024-12-09,Supplies,25702.78,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-12-10,Supplies,30784.1,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-12-11,Supplies,33649.6,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-12-12,Supplies,22848.72,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-12-13,Equipment,17734.51,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-12-14,Staffing,10725.29,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2024-12-15,Supplies,8338.31,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2024-12-16,Equipment,8312.55,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2024-12-17,Staffing,16086.24,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-12-18,Staffing,15520.11,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-12-19,Supplies,31551.26,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-12-20,Supplies,22823.98,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-12-21,Staffing,2530.21,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2024-12-22,Equipment,2589.48,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2024-12-23,Supplies,22380.39,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2024-12-24,Supplies,2345.13,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2024-12-25,Staffing,32107.56,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2024-12-26,Supplies,3646.4,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2024-12-27,Equipment,2650.39,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2024-12-28,Supplies,25682.74,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2024-12-29,Staffing,16876.47,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2024-12-30,Supplies,7146.54,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2024-12-31,Staffing,12728.58,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-01-01,Supplies,21061.39,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-01-02,Supplies,2674.36,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-01-03,Equipment,28011.95,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-01-04,Staffing,1273.38,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-01-05,Staffing,15813.5,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-01-06,Supplies,22913.21,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-01-07,Supplies,30869.78,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-01-08,Supplies,15191.64,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-01-09,Staffing,15142.85,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-01-10,Supplies,14936.79,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-01-11,Supplies,33298.7,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-01-12,Equipment,21021.17,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-01-13,Staffing,10693.68,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-01-14,Supplies,13683.77,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-01-15,Staffing,12780.1,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-01-16,Supplies,7174.12,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-01-17,Staffing,18293.37,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-01-18,Staffing,19003.64,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-01-19,Supplies,4829.02,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-01-20,Staffing,13683.78,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-01-21,Staffing,21149.88,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-01-22,Equipment,15359.92,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-01-23,Staffing,29018.0,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-01-24,Equipment,34428.34,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-01-25,Supplies,9128.3,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-01-26,Supplies,8265.66,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-01-27,Supplies,10676.67,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-01-28,Staffing,30355.11,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-01-29,Staffing,32905.36,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-01-30,Staffing,15616.33,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-01-31,Supplies,29640.04,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-02-01,Equipment,12241.96,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-02-02,Equipment,31123.11,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-02-03,Equipment,11049.08,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-02-04,Supplies,12441.82,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-02-05,Equipment,30086.97,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-02-06,Equipment,14752.7,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-02-07,Equipment,27569.77,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-02-08,Supplies,33463.35,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-02-09,Staffing,2344.46,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-02-10,Equipment,24054.1,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-02-11,Equipment,8531.4,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-02-12,Staffing,4327.32,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-02-13,Staffing,12420.44,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-02-14,Supplies,15245.71,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-02-15,Staffing,9277.39,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-02-16,Supplies,12047.21,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-02-17,Equipment,10569.01,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-02-18,Equipment,13545.33,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-02-19,Supplies,8830.04,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-02-20,Supplies,18181.11,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-02-21,Equipment,9909.73,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-02-22,Staffing,21637.43,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-02-23,Equipment,9637.68,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-02-24,Supplies,26099.85,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-02-25,Equipment,20263.05,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-02-26,Staffing,30459.04,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-02-27,Staffing,33517.99,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-02-28,Supplies,23994.25,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-03-01,Staffing,1266.85,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-03-02,Equipment,19926.75,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-03-03,Supplies,23819.19,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-03-04,Staffing,19457.76,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-03-05,Supplies,32283.92,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-03-06,Staffing,2878.33,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-03-07,Supplies,14613.54,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-03-08,Staffing,20685.34,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-03-09,Supplies,19173.52,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-03-10,Supplies,18327.22,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-03-11,Staffing,14721.96,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-03-12,Supplies,15455.92,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-03-13,Staffing,20888.34,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-03-14,Supplies,17674.59,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-03-15,Staffing,27513.43,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-03-16,Supplies,10371.51,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-03-17,Staffing,1761.65,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-03-18,Staffing,30687.37,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-03-19,Equipment,30319.76,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-03-20,Equipment,6105.75,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-03-21,Supplies,2066.57,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-03-22,Supplies,14495.54,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-03-23,Equipment,18743.41,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-03-24,Staffing,7455.09,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-03-25,Supplies,15832.17,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-03-26,Staffing,6835.98,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-03-27,Staffing,20448.08,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-03-28,Supplies,16474.04,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-03-29,Supplies,3795.48,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-03-30,Staffing,9472.01,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-03-31,Staffing,25827.89,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-04-01,Supplies,28906.14,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-04-02,Supplies,10243.86,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-04-03,Staffing,17409.69,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-04-04,Staffing,5079.14,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-04-05,Staffing,28219.14,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-04-06,Supplies,5743.13,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-04-07,Staffing,22666.18,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-04-08,Supplies,22925.4,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-04-09,Equipment,9127.75,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-04-10,Staffing,15689.69,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-04-11,Staffing,3452.17,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-04-12,Supplies,14829.51,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-04-13,Supplies,7170.05,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-04-14,Equipment,34298.33,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-04-15,Supplies,19640.93,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-04-16,Equipment,7372.87,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-04-17,Staffing,27796.53,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-04-18,Staffing,20418.78,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-04-19,Supplies,23938.9,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-04-20,Supplies,31281.69,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-04-21,Equipment,24487.83,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-04-22,Supplies,7548.49,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-04-23,Staffing,33436.82,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-04-24,Staffing,30141.62,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-04-25,Supplies,17908.32,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-04-26,Staffing,22664.85,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-04-27,Staffing,25867.86,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-04-28,Staffing,29009.2,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-04-29,Staffing,7546.73,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-04-30,Supplies,17640.85,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-05-01,Supplies,23217.94,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-05-02,Supplies,34597.31,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-05-03,Equipment,7028.64,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-05-04,Staffing,5308.86,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-05-05,Supplies,2868.26,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-05-06,Staffing,3929.79,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-05-07,Staffing,29979.49,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-05-08,Supplies,1784.3,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-05-09,Supplies,28325.52,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-05-10,Supplies,4630.09,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-05-11,Supplies,8880.6,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-05-12,Equipment,21016.31,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-05-13,Supplies,28628.12,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-05-14,Equipment,31345.55,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-05-15,Equipment,30932.41,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-05-16,Staffing,3111.7,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-05-17,Equipment,3413.33,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-05-18,Staffing,16406.76,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-05-19,Equipment,23287.18,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-05-20,Supplies,31593.69,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-05-21,Staffing,2678.64,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-05-22,Staffing,13061.71,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-05-23,Supplies,31763.4,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-05-24,Staffing,27274.13,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-05-25,Equipment,28842.74,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-05-26,Staffing,8779.26,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-05-27,Staffing,24136.43,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-05-28,Staffing,20972.44,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-05-29,Equipment,22922.29,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-05-30,Equipment,13045.56,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-05-31,Supplies,15468.42,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-06-01,Equipment,30984.56,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-06-02,Equipment,12091.08,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-06-03,Supplies,24408.97,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-06-04,Staffing,16584.06,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-06-05,Equipment,14122.59,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-06-06,Staffing,19041.18,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-06-07,Supplies,16377.7,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-06-08,Equipment,2582.73,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-06-09,Staffing,4563.03,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-06-10,Supplies,24231.72,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-06-11,Equipment,27249.85,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-06-12,Equipment,21810.38,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-06-13,Equipment,15322.23,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-06-14,Equipment,25245.15,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-06-15,Supplies,26504.62,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-06-16,Equipment,30789.9,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-06-17,Staffing,14036.46,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-06-18,Equipment,7482.27,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-06-19,Equipment,8252.41,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-06-20,Staffing,23146.49,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-06-21,Equipment,18904.07,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-06-22,Supplies,26379.46,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-06-23,Equipment,3165.75,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-06-24,Supplies,13921.84,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-06-25,Supplies,24189.49,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-06-26,Equipment,26119.97,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-06-27,Equipment,13590.66,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-06-28,Equipment,1716.67,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-06-29,Supplies,5572.9,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-06-30,Staffing,814.04,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-07-01,Supplies,2680.58,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-07-02,Equipment,24831.84,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-07-03,Equipment,14672.12,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-07-04,Staffing,22023.63,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-07-05,Supplies,13627.59,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-07-06,Equipment,23283.68,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-07-07,Supplies,32190.86,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-07-08,Staffing,17851.12,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-07-09,Staffing,6863.77,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-07-10,Supplies,28875.78,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-07-11,Supplies,8412.94,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-07-12,Staffing,1193.74,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-07-13,Supplies,12216.31,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-07-14,Supplies,25526.1,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-07-15,Supplies,11862.03,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-07-16,Staffing,34658.38,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-07-17,Equipment,18040.98,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-07-18,Equipment,3187.76,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-07-19,Supplies,11253.89,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-07-20,Staffing,11259.22,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-07-21,Supplies,19507.33,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-07-22,Equipment,3529.96,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-07-23,Equipment,33279.43,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-07-24,Supplies,14930.24,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-07-25,Supplies,33530.69,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-07-26,Supplies,32942.06,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-07-27,Equipment,10014.14,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-07-28,Staffing,10736.31,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-07-29,Equipment,22520.67,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-07-30,Staffing,13897.15,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-07-31,Staffing,12041.24,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-08-01,Supplies,23032.51,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-08-02,Staffing,8913.03,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-08-03,Equipment,7669.03,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-08-04,Equipment,10968.82,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-08-05,Supplies,21170.82,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-08-06,Staffing,7062.71,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-08-07,Equipment,3841.35,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-08-08,Equipment,18919.16,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-08-09,Supplies,21617.79,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-08-10,Supplies,9602.3,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-08-11,Staffing,27011.02,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-08-12,Staffing,3099.79,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-08-13,Supplies,25158.2,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-08-14,Supplies,14426.58,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-08-15,Staffing,14592.19,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-08-16,Staffing,16977.65,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-08-17,Supplies,34286.78,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-08-18,Supplies,27957.55,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-08-19,Equipment,7366.27,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-08-20,Supplies,6760.9,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-08-21,Equipment,26061.88,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-08-22,Supplies,11729.88,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-08-23,Supplies,27849.94,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-08-24,Supplies,18798.75,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-08-25,Supplies,20709.99,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-08-26,Equipment,8608.81,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-08-27,Staffing,12529.29,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-08-28,Staffing,9642.32,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-08-29,Staffing,29106.89,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-08-30,Equipment,13355.31,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-08-31,Supplies,30410.66,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-09-01,Staffing,33257.57,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-09-02,Supplies,15707.92,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-09-03,Supplies,29203.3,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-09-04,Equipment,33478.75,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-09-05,Equipment,11117.92,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-09-06,Equipment,22346.65,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-09-07,Staffing,30417.2,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-09-08,Supplies,13931.92,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-09-09,Staffing,20040.8,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-09-10,Supplies,6570.61,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-09-11,Staffing,34486.81,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-09-12,Supplies,17524.92,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-09-13,Supplies,15872.48,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-09-14,Supplies,18855.82,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-09-15,Staffing,19218.97,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-09-16,Staffing,27320.39,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-09-17,Staffing,24529.18,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-09-18,Staffing,31121.66,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-09-19,Staffing,26946.56,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-09-20,Equipment,2203.88,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-09-21,Staffing,8697.09,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-09-22,Equipment,24167.43,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-09-23,Supplies,29667.0,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-09-24,Equipment,17345.27,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-09-25,Staffing,25491.04,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-09-26,Supplies,18568.92,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-09-27,Staffing,14235.72,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-09-28,Supplies,10904.66,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-09-29,Equipment,2536.5,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-09-30,Staffing,6235.96,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-10-01,Supplies,11187.55,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-10-02,Staffing,15687.46,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-10-03,Supplies,21663.07,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-10-04,Supplies,5722.69,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-10-05,Equipment,23490.19,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-10-06,Staffing,5358.57,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-10-07,Equipment,24514.38,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-10-08,Supplies,32054.81,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-10-09,Supplies,8344.89,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-10-10,Supplies,11784.82,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-10-11,Staffing,7816.23,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-10-12,Supplies,2818.07,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-10-13,Equipment,10208.93,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-10-14,Equipment,18004.95,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-10-15,Staffing,9666.5,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-10-16,Supplies,29060.77,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-10-17,Supplies,793.18,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-10-18,Supplies,21081.67,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-10-19,Equipment,7768.67,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-10-20,Staffing,21558.24,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-10-21,Equipment,29940.89,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-10-22,Supplies,14264.83,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-10-23,Staffing,16984.7,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-10-24,Equipment,34009.65,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-10-25,Supplies,14032.37,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-10-26,Staffing,21556.74,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-10-27,Equipment,11320.89,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-10-28,Supplies,27906.4,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-10-29,Staffing,14738.44,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-10-30,Equipment,29734.7,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-10-31,Supplies,19090.97,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-11-01,Staffing,3613.19,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-11-02,Supplies,11675.31,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-11-03,Supplies,9208.16,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-11-04,Staffing,22873.09,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-11-05,Supplies,29171.97,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-11-06,Staffing,33812.41,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-11-07,Staffing,31518.63,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-11-08,Staffing,17166.42,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-11-09,Equipment,13266.88,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-11-10,Supplies,13014.6,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-11-11,Supplies,33711.65,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-11-12,Supplies,23667.41,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-11-13,Staffing,14043.5,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-11-14,Staffing,23923.84,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-11-15,Staffing,9985.32,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-11-16,Equipment,12901.41,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-11-17,Equipment,24413.98,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-11-18,Supplies,9500.46,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-11-19,Supplies,9200.23,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-11-20,Staffing,6469.09,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-11-21,Supplies,14515.02,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-11-22,Staffing,15688.18,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-11-23,Supplies,33554.13,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-11-24,Staffing,9784.7,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-11-25,Supplies,2137.27,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-11-26,Equipment,17904.53,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-11-27,Supplies,3977.48,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-11-28,Supplies,10233.88,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-11-29,Equipment,20292.4,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-11-30,Equipment,8824.74,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-12-01,Supplies,14379.95,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-12-02,Equipment,32616.93,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-12-03,Equipment,2782.63,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-12-04,Equipment,15704.43,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-12-05,Staffing,22632.41,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-12-06,Staffing,20686.46,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-12-07,Equipment,23352.35,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-12-08,Staffing,2269.59,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-12-09,Equipment,9266.72,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-12-10,Supplies,1843.08,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-12-11,Supplies,23253.25,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-12-12,Supplies,15131.04,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-12-13,Supplies,20697.85,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-12-14,Supplies,16817.21,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-12-15,Equipment,33810.29,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-12-16,Equipment,5366.96,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-12-17,Supplies,19228.24,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-12-18,Equipment,15605.56,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-12-19,Supplies,15567.93,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-12-20,Staffing,3681.43,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2025-12-21,Equipment,19468.44,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2025-12-22,Supplies,26574.15,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-12-23,Supplies,23255.82,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-12-24,Equipment,8659.48,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-12-25,Supplies,8193.93,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2025-12-26,Equipment,29755.78,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2025-12-27,Staffing,31379.95,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-12-28,Equipment,29468.07,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2025-12-29,Equipment,2580.38,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-12-30,Staffing,10014.38,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2025-12-31,Staffing,13771.88,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2026-01-01,Staffing,3911.46,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2026-01-02,Supplies,15844.58,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2026-01-03,Staffing,16906.27,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2026-01-04,Equipment,14827.43,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2026-01-05,Supplies,29645.2,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2026-01-06,Supplies,17470.75,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2026-01-07,Staffing,26335.83,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2026-01-08,Staffing,25492.89,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2026-01-09,Staffing,8445.59,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2026-01-10,Supplies,20831.62,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2026-01-11,Staffing,2531.99,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2026-01-12,Staffing,17807.96,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2026-01-13,Staffing,4745.9,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2026-01-14,Staffing,777.19,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2026-01-15,Staffing,13689.96,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2026-01-16,Supplies,33735.94,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2026-01-17,Supplies,24143.59,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2026-01-18,Equipment,12685.99,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2026-01-19,Equipment,25195.04,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2026-01-20,Equipment,19881.78,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2026-01-21,Supplies,23329.42,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2026-01-22,Staffing,4755.57,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2026-01-23,Staffing,16822.38,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2026-01-24,Staffing,27744.6,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2026-01-25,Equipment,13866.05,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2026-01-26,Supplies,33471.64,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2026-01-27,Equipment,21230.8,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2026-01-28,Equipment,33011.17,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2026-01-29,Equipment,20288.51,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2026-01-30,Staffing,7910.7,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2026-01-31,Staffing,9665.8,Ventilators,T004,RSUD Eka Candrarini,C,Low
+2026-02-01,Staffing,20595.62,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2026-02-02,Equipment,29147.68,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2026-02-03,Equipment,7388.63,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2026-02-04,Supplies,19398.91,Ventilators,T004,RSUD Eka Candrarini,C,Medium
+2026-02-05,Staffing,12719.87,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Low
+2026-02-06,Equipment,29116.16,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2026-02-07,Supplies,26950.86,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2026-02-08,Equipment,2101.21,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2026-02-09,Equipment,7975.9,Surgical masks,T004,RSUD Eka Candrarini,C,Low
+2026-02-10,Equipment,21239.48,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
+2026-02-11,Supplies,29611.93,Surgeons' salaries,T004,RSUD Eka Candrarini,C,Medium
+2026-02-12,Supplies,22063.03,Surgical masks,T004,RSUD Eka Candrarini,C,Medium
